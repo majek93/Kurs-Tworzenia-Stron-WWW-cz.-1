@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ 
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #333;
+    font-size: 36px;
+    color: #fff;
+}
+ 
+.bg {
+    width: 100vw;
+    height: 100vh;
+    background-color: #ddd;
+}
+ 
+.square {
+    width: 60px;
+    height: 60px;
+    border: 3px solid black;
+    /* transform: translateX(-50%); */
+}
+ 
+.red {
+    background-color: tomato;
+}
+ 
+.blue {
+    background-color: royalblue;
+}
+ 
+.green {
+    background-color: greenyellow;
+}
+ 
+.gold {
+    background-color: gold;
+}
