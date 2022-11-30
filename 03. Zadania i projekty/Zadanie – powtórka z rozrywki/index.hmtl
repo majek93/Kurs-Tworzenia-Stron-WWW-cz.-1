@@ -1,0 +1,8 @@
+<div class="long">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam officiis atque adipisci neque quam ipsa, sapiente sequi facilis cum labore beatae ea error minima sint excepturi eius impedit incidunt molestias.</div>
+ 
+<div class="big"> 
+    <div class="child first">
+    </div>
+    <div class="child"></div>
+    <div class="child"></div>
+</div>
