@@ -1,0 +1,36 @@
+section {
+    margin-top: 200px;
+    margin-bottom: 50px;
+    height: 300px;
+    background-color: #ddd;
+}
+ 
+div {
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+}
+ 
+.red {
+    background-color: tomato;
+}
+ 
+.blue {
+    background-color: royalblue;
+}
+ 
+.green {
+    background-color: greenyellow;
+}
+ 
+.gold {
+    background-color: gold;
+}
+ 
+.silver {
+    background-color: silver;
+}
+ 
+.black {
+    background-color: black;
+}
